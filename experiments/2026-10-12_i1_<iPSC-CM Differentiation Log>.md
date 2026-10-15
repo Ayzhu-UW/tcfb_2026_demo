@@ -22,7 +22,7 @@
 | Gibco™ HBSS, calcium, magnesium, no phenol red | Gibco | 14025092 | N.a. | N.a. |
 
 ## Procedure
-1. Coat well plates and dishes with Matrigel diluted to 1X in DMEM/F-12 before incubating at 37C for at least 30min
+1. Coat well plates and dishes with Matrigel diluted to 1X in DMEM/F-12 before incubating at 37C for at least 30min (typically 250uL/24 well plate well and 4-5mL/10cm dish works)
 2. Prepare mTeSR Plus with 10uM Y-27632 (mTeSR+Y) (~25mL per cell line)
 3. Wash confluent plated iPSCs with HBSS before adding 5mL Versene and incubating for 5min at 37C
 4. Discard 3mL Versene and incubate for another 5min at 37C
