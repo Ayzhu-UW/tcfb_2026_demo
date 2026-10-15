@@ -34,4 +34,4 @@
 
 ![](./img/Beating-iPSC-CM-example-StemCell.gif)
 
-Successful differentiations should look like this 
+Successful differentiations should look like this (Taken from StemCell Technologies' guide to optimizing iPSC-CM differentiation)
