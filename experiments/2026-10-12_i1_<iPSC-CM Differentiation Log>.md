@@ -27,7 +27,7 @@
 3. Wash confluent plated iPSCs with HBSS before adding 5mL Versene and incubating for 5min at 37C
 4. Discard 3mL Versene and incubate for another 5min at 37C
 5. Add 3mL of mTeSR+Y and gently resuspend cells from plate to count (using hemocytometer or other cell counter)
-6. Seed cells at gradient of densities in coated 24 well plates (ranging from 50-200k cells/well) and seed a maintenance plate at desired density
+6. Seed cells at gradient of densities in coated 24 well plates (ranging from 50-200k cells/well; suggested gradient of 50, 100, 150, and 200k w/ 6 replicates each) and seed a maintenance plate at desired density
 7. Procede to cardiomyocyte differentiation following the protocol [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4597313/)
 
 ## Result
