@@ -12,12 +12,14 @@ Inviting collaborators sent out initial invitations that I had to wait for them 
 [Commit with Issue Number](https://github.com/Ayzhu-UW/tcfb_2026_demo/commit/f53cbc5e89667604f22c7581c4b05e9786d4d35a)
 [Repository label page](https://github.com/Ayzhu-UW/tcfb_2026_demo/labels)
 
+```
 Folder Layout:
-tfcb_2026_demo/
-  README.md
-  experiments/2026-10-12_i1_<iPSC-CM Differentiation Log>.md
-  experiments/imgBeating-iPSC-CM-example-StemCell.gif
-  analysis/qpcr/qpcr/2026-10-15_i2_tidy_data_exercise
+  tfcb_2026_demo/
     README.md
-    data/README.md
-    tables/tidy_data.csv
+    experiments/2026-10-12_i1_<iPSC-CM Differentiation Log>.md
+    experiments/imgBeating-iPSC-CM-example-StemCell.gif
+    analysis/qpcr/qpcr/2026-10-15_i2_tidy_data_exercise
+      README.md
+      data/README.md
+      tables/tidy_data.csv
+```
