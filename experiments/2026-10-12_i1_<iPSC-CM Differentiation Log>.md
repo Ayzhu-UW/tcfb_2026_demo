@@ -26,7 +26,7 @@
 2. Prepare mTeSR Plus with 10uM Y-27632 (mTeSR+Y) (~25mL per cell line)
 3. Wash confluent plated iPSCs with HBSS before adding 5mL Versene and incubating for 5min at 37C
 4. Discard 3mL Versene and incubate for another 5min at 37C
-5. Add 3mL of mTeSR+Y and gently resuspend cells from plate to count
+5. Add 3mL of mTeSR+Y and gently resuspend cells from plate to count (using hemocytometer or other cell counter)
 6. Seed cells at gradient of densities in coated 24 well plates (ranging from 50-200k cells/well) and seed a maintenance plate at desired density
 7. Procede to cardiomyocyte differentiation following the protocol [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC4597313/)
 
@@ -35,3 +35,4 @@
 ![](./img/Beating-iPSC-CM-example-StemCell.gif)
 
 Successful differentiations should look like this (Taken from StemCell Technologies' guide to optimizing iPSC-CM differentiation)
+
